@@ -1,6 +1,6 @@
 package First_POO_Project;
 
-public class Caracteristicas {
+public class Caracteristicas extends TipoCombustivel{
     
     private String modelo;
     private String marca;
